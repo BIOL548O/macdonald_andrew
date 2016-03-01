@@ -1,14 +1,8 @@
 # Bromeliad data
 
-data about bromeliads, such as _Neoregelia_ sp
+This is some quick pilot data from a survey of bromeliads. I made these observations at Parque Estadual da Ilha do Cardoso (25^o^
+03' S, 47^o^ 53' W), a 22.5 ha island off the south coast of São Paulo state,
+Brazil.
 
-here's a list
-
-* item one
-* item two
-
-i am just checking to see
-if soft breaks will work for me
-
-or if, to keep these lines in place  
-i must employ the double space  
+code in the `Rscripts` directory is licenced under the MIT license
+Data is released under CC-0

@@ -1,0 +1,28 @@
+---
+name: water_survey
+fields:
+  - name: n.lvs
+     title: number of leaves
+     type: numeric
+     description: counted total number of leaves big enough to hold water
+  - name: actual
+     title: Actual volume 
+     type: numeric 
+     description: The amount of water present in the entire bromeliad (in ml)
+  - name: max
+     title: Maximum volume of the bromeliad
+     type: numeric
+     description: The maximum volume the bromeliad can hold. Measured by pouring a known volume of water in and measuring the overflow.
+class: data.frame
+---
+"n.lvs","actual","max"
+13,5,100
+29,55,690
+37,205,1350
+22,60,450
+21,115,420
+18,25,175
+13,3,55
+14,2,100
+38,280,1325
+25,65,495
