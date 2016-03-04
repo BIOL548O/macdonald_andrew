@@ -1,5 +1,7 @@
 # Bromeliad data
 
+It's been so much fun teaching this module!!
+
 This is some quick pilot data from a survey of bromeliads. I made these observations at Parque Estadual da Ilha do Cardoso (25^o^
 03' S, 47^o^ 53' W), a 22.5 ha island off the south coast of São Paulo state,
 Brazil.
